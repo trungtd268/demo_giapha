@@ -116,13 +116,14 @@ export function Sidebar() {
             {/* Contact info */}
             {!collapsed && (
                 <div className="border-t px-4 py-3">
-                    <p className="text-xs text-muted-foreground leading-relaxed">
+                    {/*  <p className="text-xs text-muted-foreground leading-relaxed">
                         Để thiết lập <span className="font-semibold text-foreground">gia phả điện tử</span> riêng cho dòng họ, truy cập được từ bất kì đâu, vui lòng liên hệ
                         <br />
-                        <span className="font-semibold text-foreground">📞 088 999 1120</span>
+                        <span className="font-semibold text-foreground">📞 </span>
                         <br />
                         <span className="text-[10px] opacity-70">để nhận báo giá.</span>
                     </p>
+                    */}
                 </div>
             )}
 
